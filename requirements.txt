@@ -10,3 +10,4 @@ sentence-transformers
 gitpython
 qdrant-client
 gradio
+authlib
