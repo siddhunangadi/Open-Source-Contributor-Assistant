@@ -1,0 +1,27 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment secrets
+.env
+
+# Local databases / vector stores
+data/qdrant/
+data/repos/
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Test and tool cache
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/

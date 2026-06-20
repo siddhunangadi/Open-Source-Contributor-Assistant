@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-mistralai
+python-dotenv
+pydantic
+requests
+langgraph
+chromadb
+sentence-transformers
+gitpython
+qdrant-client
+gradio
