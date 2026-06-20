@@ -11,3 +11,4 @@ gitpython
 qdrant-client
 gradio
 authlib
+openai
